@@ -1,0 +1,12 @@
+table#insert td {
+	background: #ff0000;
+	padding: 6px 7px 6px 7px ;
+}
+
+input[type="submit"] {
+	padding: 14px 19px 14px 19px;
+}
+
+input[type="text"] {
+	padding:0;
+}
